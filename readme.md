@@ -21,3 +21,5 @@ Run the project,
 ```
 npx expo start -c
 ```
+
+`We use SafeAreaView to ensure that important content is visible on all devices, including those with notches or navigation bars.`
