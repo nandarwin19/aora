@@ -1,15 +1,23 @@
 # Aora
 
-Install expo with jsx
+## Getting started
+
+To create the project with jsx, use the following command:
+
+```
 npx create-expo-app@latest --template
-select blank (bare)
+```
 
-in react native, rnfes
+When prompted, select the "blank (bare)" template.
 
-### Install tailwind css
+### Installing tailwind css
 
-https://www.nativewind.dev/quick-starts/expo
+To install and set up Tailwind CSS, follow the instructions in the [NativeWind quick start guide for Expo](https://www.nativewind.dev/quick-starts/expo).
 
+## Running the project
 
-to run 
+Run the project,
+
+```
 npx expo start -c
+```
