@@ -23,3 +23,8 @@ npx expo start -c
 ```
 
 `We use SafeAreaView to ensure that important content is visible on all devices, including those with notches or navigation bars.`
+
+### The different push and replace
+
+push: adds a new route to the stack, so that when the user presses the back button, they are taken to the previous screen.
+replace: replaces the current route in the stack with a new one. This is useful for when you don't want the user to be able to go back to the previous screen.

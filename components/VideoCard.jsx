@@ -43,7 +43,7 @@ const VideoCard = ({ title, creator, avatar, thumbnail, video }) => {
       {play ? (
         <Video
           source={{
-            uri: "https://player.vimeo.com/video/949582778?h=d60220d68d",
+            uri: video,
           }}
           className="w-full h-60 rounded-xl mt-3"
           resizeMode={ResizeMode.CONTAIN}
