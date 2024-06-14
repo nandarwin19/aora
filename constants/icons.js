@@ -14,7 +14,7 @@ import play from "../assets/icons/play.png";
 
 export default {
   play,
-  bookmark,
+  // bookmark,
   home,
   plus,
   profile,

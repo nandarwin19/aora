@@ -13,8 +13,8 @@ const Profile = () => {
   const { user, setUser, setIsLogged } = useGlobalContext();
   const { data: posts } = useAppwrite(() => getUserPosts(user.$id));
 
-  console.log(posts);
-  console.log(user.$id);
+  // console.log(posts);
+  // console.log(user.$id);
   const logout = async () => {
     await signOut();
     setUser(null);
