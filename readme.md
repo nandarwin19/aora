@@ -1,12 +1,5 @@
 # Aora
 
-## Preview
-
-![Aora1](/image/img1.jpg)
-![Aora2](/image/img2.jpg)
-![Aora3](/image/img3.jpg)
-![Aora4](/image/img4.jpg)
-
 ## Notes
 
 1. **Create the Project**:
