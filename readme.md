@@ -83,3 +83,17 @@ Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to
 - **Profile Screen with Detailed Insights**: View account details and activity, including uploaded videos and follower count, for a personalized experience.
 - **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
 - **Animations**: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
+
+This [tutorial](https://www.youtube.com/watch?v=0-S5a0eXPoc) inspired me to create this project.
+
+## Screenshots
+
+<p align="center">
+<img src="./image/1.jpg" alt="Functional Sign In and Sign Up" height="600" title="Functional Sign In and Sign Up" />
+<img src="./image/2.jpg" alt="Modern UI/UX" height="600" title="Modern UI/UX" />
+</p>
+
+<p align="center">
+<img src="./image/3.jpg" alt="Upload AI Videos" height="600" title="Upload AI Videos" />
+<img src="./image/4.jpg" alt="View your Profile" height="600" title="View your Profile" />
+</p>
