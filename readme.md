@@ -1,5 +1,11 @@
 # Aora
 
+<div>
+    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/NativeWind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="nativewind" />
+  </div>
+  
 ## Notes
 
 1. **Create the Project**:
@@ -77,11 +83,3 @@ Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to
 - **Profile Screen with Detailed Insights**: View account details and activity, including uploaded videos and follower count, for a personalized experience.
 - **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
 - **Animations**: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
-
-## Code Architecture and Reusability
-
-The app is built with a focus on code architecture and reusability, ensuring maintainability and scalability.
-
-## Resources
-
-[React Native Course for Beginners in 2024 | Build a Full Stack React Native App](https://www.youtube.com/watch?v=ZBCUegTZF7M)
